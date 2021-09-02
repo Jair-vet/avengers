@@ -4,5 +4,4 @@
 * Red skull
 * Joker
 * Thanos
-
-* Dr Jair
+* Capitan America
